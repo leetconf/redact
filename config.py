@@ -1,0 +1,3 @@
+USER_ID = ""
+USER_TOKEN = ""
+CHANNEL_ID = ""

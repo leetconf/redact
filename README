@@ -1,0 +1,5 @@
+Redact
+======
+
+Deletes all the messages in a specific channel in Discord. Utilizes curl_cffi for sending browser
+fingerprinted requests to Discord's API. Have fun tweaking it!
